@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fix-hen-492",
+    "title": "HEN Store Fixes 4.92",
+    "description": "Fixes for HEN store update 4.92.",
+    "version": "4.92",
+    "developer": "Bats",
+    "downloadUrl": "https://www.mediafire.com/file/sv4klry6gh4xmkr/Fix+Stores+HEN+v4.92+By+Bats.pkg/file",
+    "category": "HEN"
+  },
+  {
+    "id": "fix-cfw-492",
+    "title": "CFW Store Fixes 4.92",
+    "description": "Fixes for CFW store update 4.92.",
+    "version": "4.92",
+    "developer": "Bats",
+    "downloadUrl": "https://www.mediafire.com/file/39xxh6c29baiw2i/Fix+Stores+CFW+v4.92+By+Bats.pkg/file",
+    "category": "CFW"
+  },
+  {
+    "id": "fix-hen-493",
+    "title": "HEN Store Fixes 4.93",
+    "description": "Fixes for HEN store update 4.93.",
+    "version": "4.93",
+    "developer": "SOPHT Q",
+    "downloadUrl": "https://www.mediafire.com/file/t2efwmj0in758p4/FIX+Hen+4.93+BY+SOPHT+Q.pkg/file",
+    "category": "HEN"
+  },
+  {
+    "id": "fix-cex-493",
+    "title": "CFW CEX Store Fixes 4.93",
+    "description": "Fixes for CEX custom store update 4.93.",
+    "version": "4.93",
+    "developer": "SOPHT Q",
+    "downloadUrl": "https://www.mediafire.com/file/9f67eqg28uihnc8/FIX+CEX+4.93+BY+SOPHT+Q.pkg/file",
+    "category": "CFW"
+  },
+  {
+    "id": "fix-dex-493",
+    "title": "CFW DEX Store Fixes 4.93",
+    "description": "Fixes for DEX custom store update 4.93.",
+    "version": "4.93",
+    "developer": "SOPHT Q",
+    "downloadUrl": "https://www.mediafire.com/file/ivx54d64zk9ao3l/FIX+DEX+4.93+BY+SOPHT+Q.pkg/file",
+    "category": "CFW"
+  }
+]

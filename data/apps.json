@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ps3-unlock-hdd",
+    "image_url": "https://e.top4top.io/p_37871n8db1.png",
+    "title": "PS3 Unlock HDD Space",
+    "description": "Tool to fix missing internal HDD space and restore correct reported capacity.",
+    "features": [
+      "استرجاع المساحة المفقودة - يصلح مشكلة نقص المساحة في الهارد الداخلي ويخلي النظام يتعرف على الحجم الحقيقي.",
+      "حل مشكلة اختلاف السعة - إذا كان الهارد مثلاً 500GB ويظهر أقل، هذا التطبيق يرجع المساحة كاملة.",
+      "إعادة ضبط تقسيم الهارد - يعدل البارتيشن الخاص بالنظام حتى يستفيد من كل المساحة.",
+      "مفيد بعد تغيير الهارد - يستخدم بعد تركيب هارد جديد أو استنساخ نظام لتفادي مشاكل السعة.",
+      "سريع التنفيذ - العملية تاخذ وقت قصير وما تحتاج إعدادات معقدة.",
+      "آمن إذا استُخدم بشكل صحيح - يفضل عدم إيقاف الجهاز أثناء العملية لتجنب أي مشاكل.",
+      "متوافق مع CFW - غالبًا يُستخدم على الأجهزة المعدلة لضمان أفضل استفادة من الهارد."
+    ],
+    "download_url": "https://www.mediafire.com/file/ct08bf8a396x2dt/PS3_Unlock_HDD_Space..v1.0_++BY+SOPHT+Q+.pkg/file"
+  },
+  {
+    "id": "ps3-extra-xmb",
+    "image_url": "https://f.top4top.io/p_3787qbzdn2.png",
+    "title": "PS3EXTRA XMB Mods Collection",
+    "description": "Complete pack to change the PS3 interface (menus, icons, sounds) with extra customization features.",
+    "features": [
+      "مجموعة تعديلات جاهزة للـ XMB - يوفر باك متكامل لتغيير شكل واجهة البلايستيشن (القوائم، الأيقونات، الأصوات).",
+      "تغيير الثيم بالكامل - تقدر تعدل الخلفيات، الألوان، الخطوط، وأسلوب عرض القوائم بشكل كامل.",
+      "إضافة ميزات جديدة للواجهة - مثل اختصارات إضافية، عرض معلومات النظام، أو تنظيم القوائم بطريقة مختلفة.",
+      "سهل التثبيت - يجي غالبًا على شكل ملفات PKG أو مجلدات تنسخها وتفعلها بسهولة.",
+      "يدعم التخصيص - تقدر تختار بين عدة مودات وتدمجها حسب ذوقك.",
+      "متوافق مع CFW بشكل كامل - بعض التعديلات تحتاج صلاحيات نظام كاملة، لذلك ما تشتغل على HEN بكل الميزات.",
+      "تحسين تجربة الاستخدام - يخلي الواجهة أجمل وأسهل بالتنقل خصوصًا إذا تحب التخصيص."
+    ],
+    "download_url": "https://www.mediafire.com/file/f9zafznkb6kocpa/PS3EXTRA_XMB_mods_1.0_BY+SOPHT+Q+.pkg/file"
+  },
+  {
+    "id": "multiman",
+    "image_url": "https://g.top4top.io/p_3787mbtv83.png",
+    "title": "multiMAN",
+    "description": "Comprehensive file manager for PS3 with game playback, media support, and FTP file transfer.",
+    "features": [
+      "مدير ملفات: نسخ، لصق، وحذف الملفات بسهولة.",
+      "تشغيل الألعاب: يدعم ألعاب PS1, PS2, PS3, PSP ونسخ ISO.",
+      "مشغل وسائط: يشغل فيديو، موسيقى، وصور.",
+      "نقل FTP: انقل الملفات لاسلكيًا بين الكمبيوتر والجهاز.",
+      "أدوات إضافية: خيارات تخصيص وتحكم متقدمة.",
+      "توافق شامل: يعمل على الأجهزة التي بها CFW أو HEN."
+    ],
+    "download_url": "https://www.mediafire.com/file/ula9jf11xsfccfv/MMcm4.91_BY_SOPHT_Q.pkg/file"
+  },
+  {
+    "id": "webman",
+    "image_url": "https://h.top4top.io/p_37871416m4.png",
+    "title": "webMAN",
+    "description": "Powerful tool for running games and remote control of PS3 with protection and performance features.",
+    "features": [
+      "تشغيل الألعاب من أي مكان: تقدر تشغل ألعاب PS3 و PS2 و PS1 من الهارد الداخلي، أو الخارجي (حتى لو بصيغة NTFS)، أو من الكمبيوتر عبر الشبكة.",
+      "التحكم عن بُعد: تفتح المتصفح في جوالك أو كمبيوترك وتتحكم في الـ PS3: تشغل الألعاب، تطفي الجهاز، تتحكم في المروحة، وكل شيء.",
+      "حماية من الحرارة: يتحكم في سرعة المروحة بنفسه عشان يخفض حرارة المعالج والرسوميات، ويحمي الجهاز من التلف.",
+      "واجهة بسيطة وسريعة: يضيف لك مجلد خاص في قائمة PS3 اسمه “webMAN Games” فيه كل ألعابك. وأثناء اللعب تضغط زرين (مثلاً SELECT + START) عشان تظهر لك قائمة تحكم سريعة.",
+      "نقل الملفات بسهولة: فيه FTP مدمج، تقدر تنقل الألعاب من الكمبيوتر للـ PS3 وأنت في منتصف اللعبة بدون ما توقف شيء.",
+      "تحسين الأداء: يخلي الجهاز أسرع في بعض الألعاب، ويقدر يرفع أداء المعالج إذا اللعبة تحتاج قوة إضافية."
+    ],
+    "download_url": "https://www.mediafire.com/file/ehydil8l8ogtkex/webMAN+MOD+By+Bats+.pkg/file"
+  },
+  {
+    "id": "apollo",
+    "image_url": "https://i.top4top.io/p_37877wyqx5.png",
+    "title": "Apollo Save Tool",
+    "description": "Powerful save manager for editing and downloading saves with cheat and trophy support.",
+    "features": [
+      "إدارة ملفات الحفظ بكل سهولة: تقدر تشوف كل ملفات الحفظ (saves) من الهارد الداخلي أو USB، وتنسخها، وتحذفها، وتنقلها بضغطة زر.",
+      "تنزيل حفظات من قاعدة بيانات مباشرة: فيه قاعدة بيانات أونلاين جاهزة، تقدر تنزل منها حفظات جاهزة مباشرة على جهازك.",
+      "توقيع الحفظات عشان تشتغل عندك: التطبيق يعيد توقيع أي حفظ من النت أو من صديق عشان يشتغل على حسابك وجهازك.",
+      "تعديل الحفظات وتفعيل الشفرات (cheats): يدعم شفرات Save Wizard و Game Genie ويطبق باتشات مثل فلوس أو صحة لا نهائية.",
+      "يدعم ألعاب PS1 و PS2: مو بس PS3، يقدر يتعامل مع حفظات ألعاب PS1 و PS2 وتحويلها بين الصيغ المختلفة.",
+      "إدارة بطاقات الذاكرة الافتراضية (VMC): يدير بطاقات الذاكرة حق PS1 و PS2 ويستورد/يصدر الحفظات منها.",
+      "إدارة الجوائز (Trophies) والتراخيص: تقدر تنسخ الجوائز، تستعيدها، أو حتى تفتح جوائز فردية، ويدير تراخيص الألعاب (.rap و .rif)."
+    ],
+    "download_url": "https://www.mediafire.com/file/oyz9z2yycb45qc1/apollo+By+Bats.pkg/file"
+  },
+  {
+    "id": "artemis",
+    "image_url": "https://j.top4top.io/p_378714fp66.png",
+    "title": "Artemis",
+    "description": "Tool to apply cheats to PS3 games during play with a large database and online updates.",
+    "features": [
+      "تشغيل الشفرات (Cheats) لألعاب PS3 بسهولة أثناء اللعب.",
+      "قاعدة بيانات شفرات ضخمة تدعم أكثر من 2000 لعبة.",
+      "تحديث أونلاين لتحميل أحدث الشفرات مباشرة من الإنترنت بدون كمبيوتر.",
+      "واجهة بسيطة تعرض الألعاب المرتبة أبجدياً لتحديد الشفرات بسرعة.",
+      "تفعيل سريع أثناء اللعب بالضغط على زر PS ثم الاستمرار على START.",
+      "إيقاف الشفرات بالضغط على SELECT من قائمة XMB أثناء اللعبة.",
+      "نوعان للتشغيل: ONCE (مرة واحدة) و CONTENT (مستمر).",
+      "خيار (Plugin) يناسب أنظمة CFW أو HEN لتحسين التوافق.",
+      "إضافة شفرات يدوية عبر USB أو FTP بصيغة .ncI.",
+      "خيارات متقدمة مثل دمج عدة خيارات في شفرة واحدة (Option Tags).",
+      "بحث سريع بين الألعاب باستخدام L1/R1.",
+      "تحديث تلقائي للتطبيق نفسه عند وجود إصدار جديد."
+    ],
+    "download_url": "https://www.mediafire.com/file/2o1wqcpgfxwqf4y/Artemis+By+Bats.pkg/file"
+  },
+  {
+    "id": "irisman",
+    "image_url": "https://c.top4top.io/p_3787x6y821.png",
+    "title": "IRISMAN",
+    "description": "Full-featured file manager and game launcher for PS3 with fan control and network support.",
+    "features": [
+      "تشغيل ألعاب PS3 من الهارد الداخلي أو الخارجي (USB) بصيغة ISO أو GAMES.",
+      "يشغل ألعاب PS1 و PS2 و PSP بدون الحاجة لديسك داخل الجهاز.",
+      "مدير ملفات يشبه الكمبيوتر: نسخ، حذف، ونقل بين الهارد الداخلي والخارجي.",
+      "يدعم FAT32 و NTFS و exFAT مع FTP مدمج لنقل الملفات من الكمبيوتر.",
+      "تثبيت ملفات PKG (ألعاب أو برامج) مباشرة من داخله.",
+      "التحكم بالمروحة لتخفيض الحرارة وعرض حرارة CPU و RSX لحماية الجهاز.",
+      "يشغل ملفات الفيديو والصوت (إذا عندك SHOWTIME).",
+      "تحويل مجلد اللعبة إلى ISO بضغطة زر.",
+      "تشغيل الألعاب من الكمبيوتر عبر الشبكة (NET)."
+    ],
+    "download_url": "https://www.mediafire.com/file/mflbgd9l1hfwrz1/IRISMAN+By+Bats.pkg/file"
+  },
+  {
+    "id": "managunz",
+    "image_url": "https://k.top4top.io/p_3787m8afw7.png",
+    "title": "ManaGunZ",
+    "description": "Advanced game and file manager for PS3 with wide format support and extra features.",
+    "features": [
+      "يدعم NTFS و exFAT مباشرة بدون تجزئة أو تعقيد.",
+      "واجهات عرض متعددة، أبرزها FLOW3D وشكل XMB المطابق للأصلي.",
+      "ينشئ اختصارات (PKG) في القائمة الرئيسية لتشغيل الألعاب مباشرة.",
+      "يدير ألعاب PS2 بمحرر CONFIG ووضع WideScreen و 480p.",
+      "يعدل EBOOT ويعيد التوقيع لتشغيل الألعاب على أي إصدار.",
+      "يفحص سلامة الألعاب عبر IRD ويتأكد من الملفات.",
+      "مدير ملفات بنافذتين ويدعم FTP وفك ضغط PKG/RAR.",
+      "ينقل بيانات التثبيت (Game Data) إلى USB لتوفير مساحة داخلية."
+    ],
+    "download_url": "https://www.mediafire.com/file/zdvaqpbmuobeg5p/ManaGunZ+v1.42+By+Bats.pkg/file"
+  },
+  {
+    "id": "filemanager",
+    "image_url": "https://l.top4top.io/p_3787plgqi8.png",
+    "title": "FileManager",
+    "description": "Standalone file manager for PS3 to handle and transfer files easily, with NTFS support.",
+    "features": [
+      "إدارة الملفات بدون كمبيوتر: نسخ، قص، لصق، حذف، وإعادة تسمية بين القرص الداخلي والخارجي مباشرة.",
+      "دعم الأقراص بصيغة NTFS: يتعامل مع الملفات الأكبر من 4 جيجابايت (مثل ألعاب ISO) دون الحاجة لتقسيمها.",
+      "واجهة سهلة تشبه ويندوز: تنقل بالمفاتيح الاتجاهية، زر X للتحديد، وزر O لقائمة الخيارات.",
+      "دمج الملفات المقسمة تلقائيًا: عند النسخ من قرص FAT32، يعيد تجميع الأجزاء إلى ملف كامل.",
+      "إنشاء روابط رمزية (Symbolic Links): لتشغيل الألعاب من القرص الخارجي مع ترك الملفات الصغيرة داخل الداخلي لتوفير المساحة.",
+      "سرعة عالية في النقل: أسرع من بروتوكول FTP، خاصة مع الملفات الكبيرة.",
+      "لا يحتاج إلى شبكة أو كمبيوتر: مستقل بالكامل، يعمل من الجهاز نفسه.",
+      "متوافق مع أنظمة CFW وHEN: يمكن تثبيته كتطبيق منفصل أو تشغيله من داخل multiMAN أو IRISMAN."
+    ],
+    "download_url": "https://www.mediafire.com/file/3rx8walsz9y374u/FileManager_By_Bats.pkg/file"
+  },
+  {
+    "id": "prepntfs",
+    "image_url": "https://a.top4top.io/p_378727tnj9.png",
+    "title": "prepNTFS",
+    "description": "Tool to prepare NTFS drives and run ISO games directly from external HDD on PS3.",
+    "features": [
+      "تهيئة أقراص NTFS للتشغيل: يقوم بقراءة الهارد الخارجي بصيغة NTFS ويجهزه حتى يتعرف عليه النظام.",
+      "إظهار ألعاب ISO على الـ XMB: يخلي الألعاب تظهر بقائمة البلايستيشن مباشرة بدون الحاجة لمدير ملفات.",
+      "يدعم الملفات الكبيرة: يشغل ألعاب ISO بحجم أكبر من 4GB بدون تقطيع أو تقسيم.",
+      "ضروري قبل تشغيل الألعاب من NTFS: لازم تشغله مرة قبل استخدام multiMAN أو webMAN للتعرف على الألعاب.",
+      "سريع وخفيف: ياخذ ثواني فقط للفحص والتجهيز.",
+      "يعمل بدون نقل ملفات: يشغل الألعاب مباشرة من الهارد الخارجي بدون نسخها للداخلي.",
+      "متوافق مع CFW و HEN: يشتغل على أغلب الأجهزة المعدلة بدون مشاكل."
+    ],
+    "download_url": "https://www.mediafire.com/file/i4r1sl30mgb9tkg/prepNTFS.pkg.569.v1.01+BY+SOPHT+Q+.pkg/file"
+  },
+  {
+    "id": "tempmon",
+    "image_url": "https://a.top4top.io/p_3787z3dea4.png",
+    "title": "TempMON",
+    "description": "Temperature monitoring tool for PS3 with alerts when overheating to protect performance.",
+    "features": [
+      "مراقبة حرارة الجهاز: يعرض درجة حرارة المعالج (CPU) وكرت الشاشة (RSX) بشكل مباشر.",
+      "عرض داخل الألعاب: تقدر تشوف الحرارة أثناء اللعب بدون ما تطلع من اللعبة.",
+      "تنبيه عند ارتفاع الحرارة: ينبهك إذا صارت الحرارة عالية حتى تحمي جهازك.",
+      "خفيف وسريع: يشتغل بالخلفية بدون ما يأثر على الأداء.",
+      "مفيد لأصحاب CFW و HEN: يساعدك تراقب الجهاز خصوصًا إذا مركب برامج مثل webMAN.",
+      "يساعد على الحفاظ على الجهاز: تقدر تعرف إذا تحتاج تنظيف أو تغيير معجون حراري.",
+      "سهل الاستخدام: مجرد تشغيله ويبدأ يعرض المعلومات مباشرة."
+    ],
+    "download_url": "https://www.mediafire.com/file/ia7e2mqq3qjxpsz/TempMON.pkg.661.v1.01_+BY+SOPHT+Q.pkg/file"
+  },
+  {
+    "id": "ps3-cloud-drive",
+    "image_url": "https://b.top4top.io/p_3787yxdur10.png",
+    "title": "PS3 Cloud Drive [escadrummer]",
+    "description": "Tool to stream PS3 games directly from cloud storage like Google Drive without local storage.",
+    "features": [
+      "تشغيل الألعاب من التخزين السحابي: يسمح لك تشغل ألعاب PS3 (خصوصًا ISO) من خدمات التخزين مثل Google Drive بدون تحميلها بالكامل.",
+      "توفير مساحة الهارد: ما تحتاج تخزن الألعاب على الهارد الداخلي أو الخارجي، يشتغل مباشرة من الإنترنت.",
+      "يعتمد على سرعة الإنترنت: كل ما كان النت أسرع، كان الأداء أفضل وتقليل التقطيع أثناء اللعب.",
+      "تكامل مع webMAN/MultiMAN: يضيف الألعاب للقائمة حتى تظهر وتشتغل مثل الألعاب العادية.",
+      "دعم روابط مباشرة: تقدر تضيف روابط الألعاب من التخزين السحابي بسهولة.",
+      "مناسب للألعاب الكبيرة: حل ممتاز إذا عندك ألعاب بحجم كبير وما عندك مساحة كافية.",
+      "متوافق مع CFW و HEN: يشتغل على أغلب الأجهزة المعدلة.",
+      "يحتاج إعداد أولي: لازم تضبط الحساب أو الرابط حتى يشتغل بشكل صحيح."
+    ],
+    "download_url": "https://www.mediafire.com/file/8rb3df9p0etmytm/ps3-cloud-drive-mod-escadrummer-1.00.pkg.+BY+SOPHT+Q+pkg.pkg/file"
+  },
+  {
+    "id": "openps3ftp",
+    "image_url": "https://j.top4top.io/p_3787r7nwk1.png",
+    "title": "OpenPS3FTP (NTFS Plugin)",
+    "description": "FTP file transfer tool with NTFS plugin and easy device file management.",
+    "features": [
+      "نقل الملفات عبر FTP: يسمح لك بنقل الملفات بين الكمبيوتر والبلايستيشن 3 عن طريق الشبكة (Wi-Fi أو LAN).",
+      "دعم إضافي لـ NTFS: بفضل الإضافة (Plugin) يقدر يتعامل مع ملفات على أقراص NTFS ويسهل الوصول لها.",
+      "إدارة ملفات الجهاز: تقدر تدخل على مجلدات النظام وتنقل، تنسخ، أو تحذف ملفات مباشرة.",
+      "سريع في النقل المحلي: سرعة جيدة خصوصًا عند استخدام كابل LAN بدل الواي فاي.",
+      "مفيد للتعديل والمودينك: يستخدم كثيرًا لنقل ملفات الألعاب، الإضافات، أو التعديلات.",
+      "يعمل مع CFW و HEN: متوافق مع الأجهزة المعدلة بدون مشاكل.",
+      "تشغيل خفيف: يشتغل بالخلفية بدون ما يأثر على أداء الجهاز.",
+      "يحتاج إعداد شبكة: لازم يكون الجهاز والكمبيوتر على نفس الشبكة حتى يشتغل.",
+      "الملف مضغوط ويحتوي على نسختين: ثبت النسخة المتوافقة مع نظامك (REX + CEX)."
+    ],
+    "download_url": "https://www.mediafire.com/file/qvifjbntr0i98xc/OpenPS3FTP+(ntfs+plugin)+V+4.4+BY+SOPHT+Q+.zip/file"
+  },
+  {
+    "id": "xmbpd",
+    "image_url": "https://k.top4top.io/p_3787x65ep2.png",
+    "title": "XMBPD",
+    "description": "Tool to enable Debug Settings in the PS3 XMB and add developer features for advanced control.",
+    "features": [
+      "تفعيل قائمة Debug Settings: يضيف خيارات الديبق المخفية داخل الـ XMB للتحكم المتقدم بالنظام.",
+      "فتح ميزات المطورين: يسمح باستخدام إعدادات خاصة مثل تشغيل ملفات Debug أو تعديل إعدادات النظام.",
+      "التحكم بخيارات الألعاب: مثل تغيير وضع التشغيل أو تفعيل إعدادات إضافية لبعض الألعاب.",
+      "سهل التفعيل والتعطيل: تقدر تشغل أو تطفي الـ Debug Settings بكل بساطة.",
+      "مفيد للمودينك: أداة مهمة للمستخدمين اللي يحبون التعديل والتجارب على الجهاز.",
+      "خفيف وسريع: ما يستهلك موارد ويشتغل مباشرة.",
+      "متوافق مع CFW فقط: غالبًا يحتاج كاستم فيرموير حتى يشتغل بشكل كامل.",
+      "⚠️ تحذير: لا تستخدم التطبيق بدون معرفة الإعدادات لأنه قد يضر جهازك."
+    ],
+    "download_url": "https://www.mediafire.com/file/m82669a2cjprgar/XMBPD_v0.70.pkg.v0.70_+BY+SOPHT+Q.pkg/file"
+  },
+  {
+    "id": "ps3-extranet",
+    "image_url": "https://l.top4top.io/p_3787vh3rc3.png",
+    "title": "PS3 EXTRANET",
+    "description": "Unofficial PS3 app and tools store offering a variety of programs, mods and tweaks.",
+    "features": [
+      "متجر تطبيقات وأدوات غير رسمي: يوفر مجموعة برامج، مودات، وأدوات للبلايستيشن 3 بمكان واحد.",
+      "تحميل مباشر من الجهاز: تقدر تنزل التطبيقات والألعاب بدون الحاجة لكمبيوتر.",
+      "مكتبة متنوعة: يحتوي على أدوات مثل مدراء ملفات، برامج تحكم، وثيمات وتعديلات.",
+      "واجهة سهلة الاستخدام: تصميم بسيط يخليك تتنقل بين الأقسام بسرعة.",
+      "تحديثات مستمرة: يتم إضافة محتوى جديد بشكل دوري.",
+      "مناسب للأجهزة المعدلة: مصمم للعمل على CFW و HEN.",
+      "يوفر الوقت والجهد: بدل ما تدور بكل مكان، تحصل كلشي داخل التطبيق.",
+      "يحتاج إنترنت: لازم اتصال نت حتى تقدر تتصفح وتحمل المحتوى."
+    ],
+    "download_url": "https://www.mediafire.com/file/y4x1rfrk8s4lixu/PS3_EXTRANET_Installer_Multi.pkg..v2.10__BY_SOPHT_Q_.pkg/file"
+  }
+]

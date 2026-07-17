@@ -1,0 +1,121 @@
+
+body{
+  margin:0;
+  font-family:Tahoma,Arial;
+  background:#111827;
+  color:#fff;
+}
+.topbar{
+  background:#1f2937;
+  padding:15px;
+  overflow:hidden;
+  border-bottom:2px solid #374151;
+}
+h1,h2,h3,p{
+  margin:0;
+}
+#app{
+  padding:15px;
+}
+.grid{
+  display:block;
+}
+.card{
+  display:inline-block;
+  width:180px;
+  vertical-align:top;
+  background:#1f2937;
+  overflow:hidden;
+  cursor:pointer;
+  border:1px solid #374151;
+  margin-right:15px;
+  margin-bottom:15px;
+}
+.card img{
+  width:100%;
+  height:180px;
+  background:#000;
+  display:block;
+}
+.card-content{ padding:10px; }
+.card-title{ font-size:15px; min-height:40px; }
+.btn{
+  display:inline-block;
+  padding:10px 15px;
+  background:#2563eb;
+  color:#fff;
+  text-decoration:none;
+  margin-top:10px;
+}
+.section-btn{
+  display:block;
+  background:#1f2937;
+  padding:15px;
+  margin-bottom:10px;
+  cursor:pointer;
+  border:1px solid #374151;
+}
+.back{
+  margin-bottom:15px;
+}
+.pagination{
+  margin-top:20px;
+  text-align:center;
+}
+.pagination button{
+  padding:8px 12px;
+  margin:6px 4px;
+  border:none;
+  background:#374151;
+  color:#fff;
+  border-radius:8px;
+  cursor:pointer;
+}
+.pagination button.current{
+  background:#2563eb;
+  font-weight:700;
+  cursor:default;
+}
+.pagination button.disabled{
+  opacity:0.6;
+  cursor:default;
+}
+.pagination button.nav{
+  background:#111827;
+  border:1px solid #374151;
+}
+.detail img{
+  width:250px;
+  max-width:100%;
+  margin-bottom:15px;
+}
+.detail p.desc{
+  margin-top:10px;
+}
+.detail h3.detail-heading{
+  margin-top:20px;
+}
+.region{
+  background:#1f2937;
+  padding:10px;
+  margin-top:10px;
+  border-radius:10px;
+}
+.light{ background:#f3f4f6; color:#111; }
+.light .topbar, .light .card, .light .section-btn, .light .region{ background:#fff; color:#111; border-color:#ddd; }
+.light .pagination button{ background:#ddd; color:#111; }
+
+/* SVG outline text demo */
+.svg-demo{ padding:20px; }
+.svg-outline{ width:100%; height:140px; display:none; }
+.svg-outline text{ fill:none; stroke:#fff; stroke-width:2; stroke-linejoin:round; stroke-linecap:round; }
+.svg-outline textPath{ dominant-baseline:middle; }
+#outline-png{ display:block; width:100%; height:140px; object-fit:contain; }
+
+/* Controls (search / filters) */
+.controls{ margin-bottom:12px; }
+.controls input{ padding:8px; width:100%; max-width:360px; border:1px solid #374151; background:transparent; color:inherit; }
+.controls select{ padding:8px; border:1px solid #374151; background:transparent; color:inherit; }
+
+/* Download button inside card */
+.card .btn.download{ float:right; padding:6px 10px; background:#10b981; margin-top:6px; }
